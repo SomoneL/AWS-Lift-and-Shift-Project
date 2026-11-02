@@ -1,4 +1,4 @@
-# Project - Lift-and-Shift: Migrating a Legacy LAMP App to AWS EC2
+Lift-and-Shift: Migrating a Legacy LAMP App to AWS EC2
 
 Rehosting a company's legacy website onto AWS by rebuilding the full LAMP stack (Linux, Apache, MySQL, PHP) on a single EC2 instance and deploying WordPress on top of it.
 
